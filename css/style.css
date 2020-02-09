@@ -6,7 +6,10 @@
     font-size: 3mm;
     margin-bottom: 10px;
 }
-
+.block img{
+    length: 40%;
+    width: 40%;
+}
 body{
     background-color: grey;
   
