@@ -1,6 +1,6 @@
 .block{
     border: 2px solid grey;;
-    margin-right: 500px;
+    margin-left: 450px;
     float: right;
     font-family: monospace;
     font-size: 3mm;
@@ -20,4 +20,8 @@ body{
     width: 500px;
     float:left;
     margin-right: 50px;
+}
+h3{
+    border: gray;
+
 }
