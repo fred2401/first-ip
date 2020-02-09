@@ -7,7 +7,8 @@ This is my personal project being turned in as my IP. It's a simple website abou
 background, my hobbies adn an image that represents me. It is but a page long with links to my other projects like 
 the travel agency and the band.
       
-      Link:(https://fred2401.github.io/first-ip.github.io/)
+      [Link]
+      https://fred2401.github.io/first-ip.github.io/
        
 MIT License
 
