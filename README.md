@@ -8,7 +8,7 @@ background, my hobbies adn an image that represents me. It is but a page long wi
 the travel agency and the band.
       
      
-     [Link](https://fred2401.github.io/first-ip.github.io/)
+[Deployed Link](https://fred2401.github.io/first-ip.github.io/)
        
 MIT License
 
